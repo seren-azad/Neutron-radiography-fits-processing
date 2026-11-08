@@ -1,0 +1,152 @@
+{
+  "original_notebook": "GDL_Radiography_Time_Resolved_Saturation(3).ipynb",
+  "original_sha256": "a383d0cc8edbefe260b5ff706ead92d67b05eb6cd20a42bfbd3f0ad249a49fef",
+  "packaged_notebook": "notebooks/gdl_radiography.ipynb",
+  "packaged_sha256": "b9f111b00a8fddf8f8215c37ee8da6671cbd2972009a96f3a549a0f0533902ea",
+  "source_cell_mapping": [
+    {
+      "source_cell_index": 0,
+      "packaged_cell_index": 1
+    },
+    {
+      "source_cell_index": 1,
+      "packaged_cell_index": 2
+    },
+    {
+      "source_cell_index": 2,
+      "packaged_cell_index": 3
+    },
+    {
+      "source_cell_index": 3,
+      "packaged_cell_index": 4
+    },
+    {
+      "source_cell_index": 4,
+      "packaged_cell_index": 5
+    },
+    {
+      "source_cell_index": 5,
+      "packaged_cell_index": 6
+    },
+    {
+      "source_cell_index": 6,
+      "packaged_cell_index": 7
+    },
+    {
+      "source_cell_index": 7,
+      "packaged_cell_index": 8
+    },
+    {
+      "source_cell_index": 8,
+      "packaged_cell_index": 9
+    },
+    {
+      "source_cell_index": 9,
+      "packaged_cell_index": 10
+    },
+    {
+      "source_cell_index": 10,
+      "packaged_cell_index": 11
+    },
+    {
+      "source_cell_index": 11,
+      "packaged_cell_index": 12
+    },
+    {
+      "source_cell_index": 12,
+      "packaged_cell_index": 13
+    },
+    {
+      "source_cell_index": 13,
+      "packaged_cell_index": 14
+    },
+    {
+      "source_cell_index": 14,
+      "packaged_cell_index": 15
+    },
+    {
+      "source_cell_index": 15,
+      "packaged_cell_index": 16
+    },
+    {
+      "source_cell_index": 16,
+      "packaged_cell_index": 17
+    },
+    {
+      "source_cell_index": 17,
+      "packaged_cell_index": 18
+    },
+    {
+      "source_cell_index": 18,
+      "packaged_cell_index": 19
+    },
+    {
+      "source_cell_index": 19,
+      "packaged_cell_index": 20
+    },
+    {
+      "source_cell_index": 20,
+      "packaged_cell_index": 21
+    },
+    {
+      "source_cell_index": 21,
+      "packaged_cell_index": 22
+    },
+    {
+      "source_cell_index": 22,
+      "packaged_cell_index": 23
+    },
+    {
+      "source_cell_index": 23,
+      "packaged_cell_index": 24
+    },
+    {
+      "source_cell_index": 24,
+      "packaged_cell_index": 25
+    },
+    {
+      "source_cell_index": 25,
+      "packaged_cell_index": 26
+    },
+    {
+      "source_cell_index": 26,
+      "packaged_cell_index": 27
+    },
+    {
+      "source_cell_index": 27,
+      "packaged_cell_index": 28
+    },
+    {
+      "source_cell_index": 28,
+      "packaged_cell_index": 29
+    },
+    {
+      "source_cell_index": 29,
+      "packaged_cell_index": 30
+    },
+    {
+      "source_cell_index": 30,
+      "packaged_cell_index": 31
+    },
+    {
+      "source_cell_index": 38,
+      "packaged_cell_index": 32
+    },
+    {
+      "source_cell_index": 39,
+      "packaged_cell_index": 33
+    },
+    {
+      "source_cell_index": 40,
+      "packaged_cell_index": 34
+    }
+  ],
+  "changes": [
+    "Removed stored outputs, execution counts, empty cells and transient metadata.",
+    "Replaced workstation paths with repository-relative/environment-configurable paths.",
+    "Reset preview approvals; selected-image defaults now work with short series.",
+    "Corrected documentation to match two-sided despiking and FITS DATE proxy timing.",
+    "Removed unused timing configuration and redundant pre-loop stack allocations.",
+    "No change to normalization, despiking, BM3D, rotation, common mask, peak or relative-saturation arithmetic."
+  ]
+}

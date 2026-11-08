@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this analysis workflow, cite this software and the scientific references in docs/references.bib. Complete release metadata when publishing the repository."
+type: software
+title: "Time-resolved GDL neutron radiography analysis"
+authors:
+  - family-names: "Azad"
+    given-names: "Seren"
+abstract: "FITS-to-transmission processing, dry-reference attenuation differences, observed-maximum relative-saturation maps and spatial profiles for GDL neutron radiography."
+keywords:
+  - neutron radiography
+  - gas diffusion layer
+  - relative saturation
+  - ICON
